@@ -21,4 +21,4 @@ Jupyter Notebook – para organização do código e análises exploratórias.
 ![a](https://github.com/user-attachments/assets/fba7125d-daa1-4091-8f27-7d779f0f1151)
 
 
- 📌 Observação: Este projeto utiliza dados coletados de fontes públicas. Caso utilize este repositório, verifique a legalidade da extração dos dados conforme as diretrizes do site-fonte Gov.br
+ 📌 Observação: Este projeto utiliza dados coletados de fontes públicas. Caso utilize este repositório, verifique a legalidade da extração dos dados conforme as diretrizes do site fonte Gov.br
