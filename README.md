@@ -1,17 +1,17 @@
-# 📊 Análise de Preços de Combustíveis no Brasil 🚀
+#  Análise de Preços de Combustíveis no Brasil 
 Este projeto realiza web scraping de dados sobre os preços de combustíveis no Brasil, processa e transforma as informações utilizando Python e apresenta uma análise interativa no Power BI.
 
-🔍 O que o projeto faz?
+ O que o projeto faz?
 ✅ Coleta dados atualizados sobre os preços de todos os tipos de combustíveis nas diferentes regiões do Brasil.
 ✅ Processa e organiza os dados para facilitar análises comparativas.
 ✅ Gera insights sobre variações de preços por estado e região.
 ✅ Apresenta visualizações interativas no Power BI, permitindo uma navegação dinâmica pelos dados.
 
-⚙️ Tecnologias utilizadas
+ Tecnologias utilizadas
 Python (BeautifulSoup, Requests, Pandas, NumPy) – para extração, tratamento e análise de dados.
 Power BI – para visualização interativa e comparação dos preços regionais.
 Jupyter Notebook – para organização do código e análises exploratórias.
-📈 Principais Insights
+ Principais Insights
 🔹 Diferenças de preços entre estados e regiões.
 🔹 Tendências e variações ao longo do tempo.
 🔹 Comparação entre os diferentes tipos de combustíveis (gasolina, etanol, diesel, etc.).
